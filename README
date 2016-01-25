@@ -1,0 +1,6 @@
+To use this application the three files listed below need to be in the same directory and ran from Rstudio.
+
+Files required:
+ui.R
+server.R
+states.CSV
