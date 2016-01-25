@@ -4,3 +4,5 @@ Files required:
 ui.R
 server.R
 states.CSV
+
+This application displays demographic information from the 2014 IPEDS Survey. It allows for information to be sorted on race or by gender while being broken up by specific states.
